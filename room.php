@@ -16,7 +16,7 @@
 				<li><a href="home.php">ชื่อ กฤษฎา สินไชย</li>
 				<li><a href="room.php">ที่อยู่ .......</li>
 				<li><a herf="guest.php">เบอร์โทร ........</li>
-				<li><a href="contact.php">อีเมลล์ นะจ๊ะ.......</li>
+				<li><a href="contact.php">อีเมลล์.......</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
